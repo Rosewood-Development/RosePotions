@@ -1,0 +1,6 @@
+name: RosePotions
+main: dev.rosewood.rosepotions.RosePotions
+version: '@version@'
+api-version: '1.16'
+author: Rosewood-Development
+description: Custom Potion Effect Handling Plugin
